@@ -1,0 +1,14 @@
+{
+  "name": "claude-token-saver",
+  "description": "Token-saving plugins for Claude Code",
+  "owner": {
+    "name": "deepuyrf-blip"
+  },
+  "plugins": [
+    {
+      "name": "token-saver",
+      "source": "./",
+      "description": "Token-efficient working rules for Claude Code: read less, search precisely, respond terse."
+    }
+  ]
+}
